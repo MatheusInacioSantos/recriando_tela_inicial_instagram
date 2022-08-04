@@ -1,2 +1,2 @@
-# recriando_tela_inicial_instagram
-Recriando a tela inicial do instagram, desafio de projeto Santander Bootcamp Fullstack Developer
+# Santader Bootcamp Fullstack Developer
+Recriando a tela inicial do instagram
